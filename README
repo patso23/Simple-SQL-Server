@@ -1,0 +1,18 @@
+Project3
+
+Group:
+Patrick O'Shea
+Xeusi Jian
+Hao "Jason" Gao
+
+
+Written report is located in project folder and named LabReportPaper.pdf
+
+All related data generation scripts are located in /datagen
+
+All related raw and aggregate data are located in /datagen/results
+
+
+(This was a group project for my advanced databases coursework in which we implemented a simple SQL DBMS using C++)
+
+
